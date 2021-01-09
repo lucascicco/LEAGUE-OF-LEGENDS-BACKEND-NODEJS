@@ -1,6 +1,6 @@
 # LEAGUE-OF-LEGENDS-BACKEND-NODEJS
 
-Back-end com Node.JS focado no uso da API externa da RIOT-GAMES em conjunto com o front-end LEAGUE-OF-LEGENDS-APP-REACT-NATIVE, a aplicação front-end.
+Back-end com Node.JS focado no uso da API externa da RIOT-GAMES em conjunto com o front-end [LEAGUE-OF-LEGENDS-APP-REACT-NATIVE](https://github.com/lucascicco/LEAGUE-OF-LEGENDS-APP-REACT-NATIVE), a aplicação front-end.
 
 O banco de dados usado foi o PostgreSQL, ou seja, um banco de dados relacional, fez-se o uso da dependência **sequelize** para fazer a conexão com o banco de dados.
 
